@@ -1,6 +1,6 @@
 # FSM-On-Off-Switch
 ===================
-## Python Finite State System Practice - Switch On/Off
+## Python Finite State Machine Practice - Switch On/Off
 -------------------
 
 **Author**: Nicolas Flandrois
