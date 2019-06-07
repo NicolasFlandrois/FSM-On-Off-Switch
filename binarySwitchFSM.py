@@ -7,7 +7,9 @@ from random import randint
 from time import clock
 ##================================
 #Finite states definition
-State = type("State", (object,), {})
+State = type("State", (object,), {}) #Construct a 'State' empty base class
+#cf: type(name, bases, dict)
+#https://jfine-python-classes.readthedocs.io/en/latest/type-name-bases-dict.html
 
 class SwitchOn(State):
 	"""SwitchOn"""
